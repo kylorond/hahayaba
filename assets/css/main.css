@@ -169,7 +169,7 @@ h6 {
 /* Index Page Header on Scroll
 ------------------------------*/
 .index-page.scrolled .header {
-  --background-color: rgba(112, 116, 124, 0.9);
+  --background-color: black;
 }
 
 /*--------------------------------------------------------------
