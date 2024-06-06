@@ -41,7 +41,7 @@
   --nav-color: #000000;
 
   /* Nav Hover Color - This color is applied to main navmenu links when they are hovered over. */
-  --nav-hover-color: #000000;
+  --nav-hover-color: #FFDB00;
 
   /* Nav Dropdown Background Color - This color is used as the background for dropdown boxes that appear when hovering over primary navigation items. */
   --nav-dropdown-background-color: #000000;
