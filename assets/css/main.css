@@ -231,6 +231,7 @@ h6 {
     background: var(--nav-dropdown-background-color);
     display: block;
     position: absolute;
+    list-style-type: none;
     visibility: hidden;
     left: 14px;
     top: 130%;
@@ -249,6 +250,7 @@ h6 {
     padding: 10px 20px;
     font-size: 15px;
     text-transform: none;
+    list-style-type: none;
     color: var(--nav-dropdown-color);
   }
 
@@ -353,6 +355,7 @@ h6 {
     padding: 10px 0;
     margin: 0;
     border-radius: 6px;
+    list-style-type: none;
     background-color: var(--nav-dropdown-background-color);
     overflow-y: auto;
     transition: 0.3s;
@@ -367,6 +370,7 @@ h6 {
     font-family: var(--nav-font);
     font-size: 17px;
     font-weight: 500;
+    list-style-type: none;
     display: flex;
     align-items: center;
     justify-content: space-between;
